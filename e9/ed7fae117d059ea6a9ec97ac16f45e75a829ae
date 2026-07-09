@@ -1,0 +1,21 @@
+lib/stupidedi/transaction_sets/004010/implementations.rb
+  s_b0dcdd17a49dd5::t_5ea04bb062ab78 22
+lib/stupidedi/transaction_sets/004010/implementations/PO850.rb
+  s_b0dcdd17a49dd5::t_5b27578cdfd3ad 12-14,17,25-32,34-54,57-59,64-69,72-76,79,83-86,89,93-95,98-100,109,111-168,174-180,182
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e9ed7fae117d059ea6a9ec97ac16f45e75a829ae",
+  "prompts": {},
+  "sessions": {
+    "s_b0dcdd17a49dd5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6ca9ef27-ec65-4d60-b8ac-85936a3b813a",
+        "model": "glm-5.2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
