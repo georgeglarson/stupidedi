@@ -1,0 +1,20 @@
+spec/fixtures/004010/PO850/pass/1.edi
+  s_b0dcdd17a49dd5::t_d1c227a96431df 1-4,8-9
+  s_b0dcdd17a49dd5::t_0476a96dab90ff 5-7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "8e98683be9b3a3bd938f488f99e6b8570e8566ee",
+  "prompts": {},
+  "sessions": {
+    "s_b0dcdd17a49dd5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "6ca9ef27-ec65-4d60-b8ac-85936a3b813a",
+        "model": "glm-5.2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
