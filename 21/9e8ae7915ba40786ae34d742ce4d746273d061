@@ -1,0 +1,26 @@
+lib/stupidedi/transaction_sets/004010/implementations/SH856.rb
+  s_2ad5a4f0b59d55::t_4addafda02cb54 93-95
+  s_2ad5a4f0b59d55::t_0c68adc4436e57 47-48
+  s_2ad5a4f0b59d55::t_7074d0c6e0a5e0 78,80-81
+  s_2ad5a4f0b59d55::t_6b644121351239 58-60
+lib/stupidedi/transaction_sets/004010/implementations.rb
+  s_2ad5a4f0b59d55::t_bfe844610a10dd 26
+spec/fixtures/004010/SH856/pass/1.edi
+  s_2ad5a4f0b59d55::t_c7d4343229030a 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.14",
+  "base_commit_sha": "219e8ae7915ba40786ae34d742ce4d746273d061",
+  "prompts": {},
+  "sessions": {
+    "s_2ad5a4f0b59d55": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9e4beddf-97d8-4c43-af17-77f959b4bee7",
+        "model": "glm-5.2"
+      },
+      "human_author": "george larson <george.g.larson@gmail.com>"
+    }
+  }
+}
